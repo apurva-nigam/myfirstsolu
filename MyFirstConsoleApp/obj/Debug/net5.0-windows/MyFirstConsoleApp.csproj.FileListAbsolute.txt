@@ -1,0 +1,16 @@
+D:\MyFirstSolution\MyFirstConsoleApp\bin\Debug\net5.0-windows\MyFirstConsoleApp.exe
+D:\MyFirstSolution\MyFirstConsoleApp\bin\Debug\net5.0-windows\MyFirstConsoleApp.deps.json
+D:\MyFirstSolution\MyFirstConsoleApp\bin\Debug\net5.0-windows\MyFirstConsoleApp.runtimeconfig.json
+D:\MyFirstSolution\MyFirstConsoleApp\bin\Debug\net5.0-windows\MyFirstConsoleApp.runtimeconfig.dev.json
+D:\MyFirstSolution\MyFirstConsoleApp\bin\Debug\net5.0-windows\MyFirstConsoleApp.dll
+D:\MyFirstSolution\MyFirstConsoleApp\bin\Debug\net5.0-windows\MyFirstConsoleApp.pdb
+D:\MyFirstSolution\MyFirstConsoleApp\obj\Debug\net5.0-windows\MyFirstConsoleApp.csproj.AssemblyReference.cache
+D:\MyFirstSolution\MyFirstConsoleApp\obj\Debug\net5.0-windows\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFirstSolution\MyFirstConsoleApp\obj\Debug\net5.0-windows\MyFirstConsoleApp.AssemblyInfoInputs.cache
+D:\MyFirstSolution\MyFirstConsoleApp\obj\Debug\net5.0-windows\MyFirstConsoleApp.AssemblyInfo.cs
+D:\MyFirstSolution\MyFirstConsoleApp\obj\Debug\net5.0-windows\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\MyFirstSolution\MyFirstConsoleApp\obj\Debug\net5.0-windows\MyFirstConsoleApp.dll
+D:\MyFirstSolution\MyFirstConsoleApp\obj\Debug\net5.0-windows\refint\MyFirstConsoleApp.dll
+D:\MyFirstSolution\MyFirstConsoleApp\obj\Debug\net5.0-windows\MyFirstConsoleApp.pdb
+D:\MyFirstSolution\MyFirstConsoleApp\obj\Debug\net5.0-windows\MyFirstConsoleApp.genruntimeconfig.cache
+D:\MyFirstSolution\MyFirstConsoleApp\obj\Debug\net5.0-windows\ref\MyFirstConsoleApp.dll
